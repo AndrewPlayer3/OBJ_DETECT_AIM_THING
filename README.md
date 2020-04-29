@@ -3,6 +3,7 @@ Yolov3 is an algorithm that uses deep convolutional neural networks to perform o
 
 ORIGINAL REPO (ME AND JASON WORKED OFF OF THIS PROJECT TO GET YOLOV3 WORKING):
 https://github.com/theAIGuysCode/Object-Detection-API/
+Most of what we changed is in detect_video.py (all the aiming code) and utils.py (drawing some stuff). The arduino code folder is ours too.
 
 ## Getting started
 
