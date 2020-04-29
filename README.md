@@ -1,7 +1,8 @@
 # Yolov3 Object Detection with Flask and Tensorflow 2.0 (APIs and Detections)
 Yolov3 is an algorithm that uses deep convolutional neural networks to perform object detection. This repository implements Yolov3 using TensorFlow 2.0 and creates two easy-to-use APIs that you can integrate into web or mobile applications. <br>
 
-![example](https://github.com/theAIGuysCode/Object-Detection-API/blob/master/detections/detection.jpg)
+ORIGINAL REPO (ME AND JASON WORKED OFF OF THIS PROJECT TO GET YOLOV3 WORKING):
+https://github.com/theAIGuysCode/Object-Detection-API/
 
 ## Getting started
 
